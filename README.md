@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,docker,java,py" />
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,docker,java,py)](https://skillicons.dev)
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/itmultimedia) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
