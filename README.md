@@ -5,9 +5,12 @@
 - 🧠 Suele interesarme más el back-end, aunque el front tiene sus encantos y se me facilita por mi actual trabajo (diseñador grafico).
 - 👨‍🎓 Amo aprender, no suelo quedarme quieto ante los problemas, y prefiero aprender soluciones a que esperarlas.
 
-<center>
-  <h1># 💻 Tecnologías en las que me destaco:</h1>
-</center>
+<p align="center">
+  <kbd>
+    <h1 align="center">💻 Tecnologías en las que me destaco:</h1>
+  </kbd>
+</p>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,docker,java,py" />
