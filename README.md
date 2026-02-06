@@ -1,9 +1,10 @@
-# Hola! 👋👋
-¡Bienvenid@ a mi perfil! Me llamo Ian Torres, soy estudiante de Ingenieria en informatica en UADE. Actualmente me encuentro en busqueda de mi primer trabajo en IT, me gusta utilizar github como espacio para mostrar mis proyectos, ya sean trabajos de la facultad o proyectos propios por fuera de la universidad.
+#¡Bienvenido a mi perfil! 👋
 
-- 💡 Me interesa muchisimo la utilizacion de la informatica para el desarrolo de aplicaciones que solucionen problemas.
-- 🧠 Suele interesarme más el back-end, aunque el front tiene sus encantos y se me facilita por mi actual trabajo (diseñador grafico).
-- 👨‍🎓 Amo aprender, no suelo quedarme quieto ante los problemas, y prefiero aprender soluciones a que esperarlas.
+Mi nombre es Ian Torres, soy estudiante de Ingeniería en Informática en la UADE. Actualmente, me encuentro en la búsqueda de mi primer empleo en el sector IT. Utilizo GitHub como un espacio para compartir mis proyectos, tanto académicos como desarrollos personales fuera de la universidad.
+
+- 💡 Me interesa muchísimo la aplicación de la informática para el desarrollo de soluciones a problemas reales.
+- 🧠 Mi enfoque principal es el Back-end, aunque el Front-end me resulta muy natural gracias a mi experiencia actual como Diseñador Gráfico.
+- 👨‍🎓 Me apasiona aprender; soy proactivo ante los desafíos y prefiero investigar y construir soluciones por mi cuenta.
 
 <p align="center">
   <kbd>
