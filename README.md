@@ -4,7 +4,7 @@ Mi nombre es Ian Torres, soy estudiante de Ingeniería en Informática en la UAD
 
 - 💡 Me interesa muchísimo la aplicación de la informática para el desarrollo de soluciones a problemas reales.
 - 🧠 Mi enfoque principal es el Back-end, aunque el Front-end me resulta muy natural gracias a mi experiencia actual como **Diseñador Gráfico**.
-- 👨‍🎓 Me apasiona aprender; soy proactivo ante los desafíos y prefiero investigar y construir soluciones por mi cuenta.
+- 👨‍🎓 Me apasiona aprender; soy proactivo ante los desafíos y ante problematicas prefiero investigar para construir soluciones por mi cuenta.
 
 <p align="center">
   <kbd>
