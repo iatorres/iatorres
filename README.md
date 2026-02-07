@@ -14,7 +14,7 @@ Mi nombre es Ian Torres, soy estudiante de Ingeniería en Informática en la UAD
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,docker,java,py" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,react,nodejs,mysql,docker" />
   </a>
 </p>
 
