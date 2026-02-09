@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Ubicación-Buenos_Aires-002BBA" />
   <img src="https://img.shields.io/badge/Idiomas-Español e Ingles-002BBA" />
   <img src="https://img.shields.io/badge/Ocupación-Estudiante-FFA100" />
-  <img src="https://img.shields.io/badge/Ocupación-Ingeniería en Informática-FFA100" />
+  <img src="https://img.shields.io/badge/Carrera-Ingeniería en Informática-FFA100" />
 </p>
 
 # ¡Bienvenido a mi perfil! 👋
