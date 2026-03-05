@@ -2,13 +2,13 @@
   <img src="https://img.shields.io/badge/Edad-23_años-002BBA" />
   <img src="https://img.shields.io/badge/Ubicación-Buenos_Aires-002BBA" />
   <img src="https://img.shields.io/badge/Idiomas-Español e Ingles-002BBA" />
-  <img src="https://img.shields.io/badge/Ocupación-Estudiante-FFA100" />
+  <img src="https://img.shields.io/badge/Ocupación-Pasante y Estudiante-FFA100" />
   <img src="https://img.shields.io/badge/Carrera-Ingeniería en Informática-FFA100" />
 </p>
 
 # ¡Bienvenido a mi perfil! 👋
 
-Mi nombre es Ian Torres, soy estudiante de Ingeniería en Informática en la UADE. Actualmente, me encuentro en la búsqueda de mi primer empleo en el sector IT. Utilizo GitHub como un espacio para compartir mis proyectos, tanto académicos como desarrollos personales fuera de la universidad.
+Mi nombre es Ian Torres, soy estudiante de Ingeniería en Informática en la UADE. Actualmente, me encuentro realizando una pasantía en SCHOTT Pharma. Utilizo GitHub como un espacio para compartir mis proyectos, tanto académicos como desarrollos personales fuera de la universidad.
 
 - 💡 Me interesa muchísimo la aplicación de la informática para el desarrollo de soluciones a problemas reales.
 - 🧠 Mi enfoque principal es el Back-end, aunque el Front-end me resulta muy natural gracias a mi experiencia actual como **Diseñador Gráfico**.
