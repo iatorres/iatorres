@@ -5,14 +5,35 @@
   <img src="https://img.shields.io/badge/Ocupación-Pasante y Estudiante-FFA100" />
   <img src="https://img.shields.io/badge/Carrera-Ingeniería en Informática-FFA100" />
 </p>
+# 👋 Bienvenido a mi perfil
 
-# ¡Bienvenido a mi perfil! 👋
+Soy Ian Torres, estudiante de Ingeniería en Informática (UADE) y actualmente me desempeño en IT Operations dentro de un entorno industrial en SCHOTT Pharma.
 
-Mi nombre es Ian Torres, soy estudiante de Ingeniería en Informática en la UADE. Actualmente, me encuentro realizando una pasantía en SCHOTT Pharma. Utilizo GitHub como un espacio para compartir mis proyectos, tanto académicos como desarrollos personales fuera de la universidad.
+Trabajo en la intersección entre infraestructura, soporte técnico y desarrollo de software, participando en la resolución de incidencias y en la implementación de soluciones que impactan directamente en la operación diaria.
 
-- 💡 Me interesa muchísimo la aplicación de la informática para el desarrollo de soluciones a problemas reales.
-- 🧠 Mi enfoque principal es el Back-end, aunque el Front-end me resulta muy natural gracias a mi experiencia actual como **Diseñador Gráfico**.
-- 👨‍🎓 Me apasiona aprender; soy proactivo ante los desafíos y ante problematicas prefiero investigar para construir soluciones por mi cuenta.
+## 🚀 Enfoque
+
+💡 Me interesa la construcción de soluciones tecnológicas aplicadas a problemas reales, especialmente en contextos donde la eficiencia y la continuidad operativa son clave.
+
+🧠 Actualmente enfocado en el desarrollo Back-end, con experiencia en:
+- SQL Server
+- Java
+- Python
+- JavaScript
+
+⚙️ Complemento esto con conocimientos en redes, infraestructura y entornos productivos.
+
+## 🛠️ Qué vas a encontrar acá
+
+En este repositorio comparto:
+- Proyectos personales enfocados en backend y APIs
+- Implementaciones inspiradas en problemáticas reales de entornos IT/industriales
+- Prácticas y exploraciones con tecnologías como Node.js y Spring Boot
+
+## 📈 Objetivo
+
+Seguir evolucionando hacia un perfil de Software Developer, combinando desarrollo, datos e infraestructura para construir soluciones con impacto real.
+
 
 <p align="center">
   <kbd>
