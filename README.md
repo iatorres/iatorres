@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Ocupación-Pasante y Estudiante-FFA100" />
   <img src="https://img.shields.io/badge/Carrera-Ingeniería en Informática-FFA100" />
 </p>
-# 👋 Bienvenido a mi perfil
+## 👋 Bienvenido a mi perfil
 
 Soy Ian Torres, estudiante de Ingeniería en Informática (UADE) y actualmente me desempeño en IT Operations dentro de un entorno industrial en SCHOTT Pharma.
 
