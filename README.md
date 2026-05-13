@@ -44,7 +44,7 @@ Seguir evolucionando hacia un perfil de Software Developer, combinando desarroll
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,react,nodejs,mysql,docker" />
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,php,react,nodejs,mysql,sqlserver,docker" />
   </a>
 </p>
 
